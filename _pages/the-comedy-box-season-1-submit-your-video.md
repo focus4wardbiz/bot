@@ -13,8 +13,12 @@ post_date: 2020-01-28 05:46:28
 <p>? season 1 is a Kenyan comedy competition whose mission is to spread the work of art that creative Kenyan comedians have, providing a platform for comedians to reach their biggest target audience not only in Kenya but worldwide.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Fill in this form and upload your video. You will be automatically enrolled as a contestant once we review and approve your video. A notification will be sent to you via email.</p>
+<!-- wp:heading {"level":4} -->
+<h4>Fill in this form and upload your video. </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">You will be automatically enrolled as a contestant once we review and approve your video. A notification will be sent to you via email.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:wpforms/form-selector {"formId":"7733"} /-->
