@@ -14,7 +14,7 @@ post_date: 2020-01-28 07:09:52
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Drugs are known to trigger how a body functions normally. Globally, people from all walks of life use drugs for different purposes. Some of the reasons being for medicinal purposes while others are mainly on the idea of having fun. Drugs could either be used illegally or under legal prescription meaning that not all forms of drug use affect people negatively. However, for the longest time drugs have been misused which is estimated to kill approximately 200,000 people each year. This happens after people misusing drugs engage in the act frequently to a point where they are addicted and cannot function without the substances.</p>
+<p>Drugs are known to trigger how body functions normally. Globally, people from all walks of life use drugs for different purposes. Some of the reasons being for medicinal purposes while others are mainly on the idea of having fun. Drugs could either be used illegally or under legal prescription meaning that not all forms of drug use affect people negatively. However, for the longest time drugs have been misused which is estimated to kill approximately 200,000 people each year. This happens after people misusing drugs engage in the act frequently to a point where they are addicted and cannot function without the substances.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
