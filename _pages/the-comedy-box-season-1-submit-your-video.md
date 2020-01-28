@@ -1,6 +1,6 @@
 ---
 ID: 7734
-post_title: 'The Comedy Box Season 1 &#8211; Submit Your Video'
+post_title: '? Season 1 &#8211; Submit Your Video'
 author: Admin
 post_excerpt: ""
 layout: page
@@ -9,3 +9,6 @@ permalink: >
 published: true
 post_date: 2020-01-28 05:46:28
 ---
+<!-- wp:paragraph -->
+<p>? season 1 is a Kenyan comedy competition whose mission is to spread the work of art that creative Kenyan comedians have, providing a platform for comedians to reach their biggest target audience not only in Kenya, but worldwide.</p>
+<!-- /wp:paragraph -->
