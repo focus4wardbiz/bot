@@ -10,7 +10,7 @@ published: true
 post_date: 2020-01-17 17:41:31
 ---
 <!-- wp:image {"id":7683,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221636.jpg" alt="" class="wp-image-7683" /></figure>
+<figure class="wp-block-image size-large"><img src="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221636.jpg" alt="" class="wp-image-7683"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -22,7 +22,7 @@ post_date: 2020-01-17 17:41:31
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[7684]} -->
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221529.jpg" alt="" data-id="7684" data-full-url="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221529.jpg" data-link="https://boxoftools.com/?attachment_id=7684" class="wp-image-7684" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221529.jpg" alt="" data-id="7684" data-full-url="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221529.jpg" data-link="https://boxoftools.com/?attachment_id=7684" class="wp-image-7684"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
