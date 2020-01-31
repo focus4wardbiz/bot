@@ -14,7 +14,7 @@ post_date: 2020-01-17 17:41:31
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Human need grew overtime to human greed, overlooking the beauty that they project (aesthetic value). Fact is, its not only us that’s dependent on them. Animals and birds are all mourning. A place called home, taken down,  not in small scale, but large scale.<br> Is it greed or need? </p>
+<p>The human need grew overtime to human greed, overlooking the beauty that they project (aesthetic value). The fact is, its not only us that’s dependent on them. Animals and birds are all mourning. A place called home, taken down,  not in small scale, but large scale.<br> Is it greed or need? </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -38,7 +38,7 @@ post_date: 2020-01-17 17:41:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><br> Assumption could be a point here, that probably the earth will heal itself and we will get away with it. How about the  phrase,  actions have consequences and in the long run, its us who are going to pay dearly. <br> Key to change is always connected to the mind. Needs are there,  we ought to meet them.  They are part of us, we cannot assume. How about we become more aware of every action we take and as we cut , we plant more? I don't want to call it laziness but this is practical.  It has been shared widely, still we do not implement. (That’s why assumption popped up earlier).</p>
+<p><br> The assumption could be a point here, that probably the earth will heal itself and we will get away with it. How about the  phrase,  actions have consequences and in the long run, it is we who are going to pay dearly. <br> The key to change is always connected to the mind. Needs are there,  we ought to meet them.  They are part of us, we cannot assume. How about we become more aware of every action we take and as we cut , we plant more? I don't want to call it laziness but this is practical.  It has been shared widely, still, we do not implement it. (That’s why assumption popped up earlier).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
