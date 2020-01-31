@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://boxoftools.com/need-became-greed/
 published: true
-post_date: 2020-01-17 17:41:31
+post_date: 2020-01-31 05:41:00
 ---
 <!-- wp:image {"id":7683,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://boxoftools.com/wp-content/uploads/2020/01/Screenshot_20200115-221636.jpg" alt="" class="wp-image-7683"/></figure>
