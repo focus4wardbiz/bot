@@ -27,18 +27,7 @@ the longer I've lived leaves me thinking what if I've seen nothing?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Roses are
-red, they just wanna put you to bed, did you read about ‘You made your bed’? ,
-and so you must lie on it, with him, the old man the age of your father, maybe
-who is my uncle or my father and you call this love. I get it okay? You all
-want love, and how could he save you and you didn’t even wanna be saved,
-Roseanne? after everything he did for you how you repaid him were the words ‘I
-didn’t ask you to do all that for me’.So roses are red right? I wonder when was
-the last time you had your periods, and for a period I wanted to trust you, but
-roses have thorns too, and if you love flowers and warm bathroom showers in
-towers, enjoy your Valentine’s getaway, and you never even posted him, all I
-saw were bottles of champagne, two glasses, two plates, a cigar, and some
-ashtray.</p>
+<p>Roses are red, they just wanna put you to bed, did you read about ‘<a href="https://boxoftools.com/you-made-your-bed/">You made your bed’?</a> , and so you must lie on it, with him, the old man the age of your father, maybe who is my uncle or my father and you call this love. I get it okay? You all want love, and how could he save you and you didn’t even wanna be saved, Roseanne? after everything he did for you how you repaid him were the words ‘I didn’t ask you to do all that for me’.So roses are red right? I wonder when was the last time you had your periods, and for a period I wanted to trust you, but roses have thorns too, and if you love flowers and warm bathroom showers in towers, enjoy your Valentine’s getaway, and you never even posted him, all I saw were bottles of champagne, two glasses, two plates, a cigar, and some ashtray.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
