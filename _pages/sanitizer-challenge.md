@@ -5,7 +5,7 @@ author: Admin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://boxoftools.com/the-comedy-box-season-1-submit-your-video/
+  https://boxoftools.com/sanitizer-challenge/
 published: true
 post_date: 2020-01-28 05:46:28
 ---
