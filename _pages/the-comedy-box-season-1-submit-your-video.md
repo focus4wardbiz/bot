@@ -30,6 +30,18 @@ post_date: 2020-01-28 05:46:28
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
+<h4>NOTE</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This competition is aimed to spread awareness towards the spread of Coronavirus. Therefore:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Videos performed in a crowd, showing a crowd, or encouraging crowd interaction in any means will be disqualified.</li><li>Follow the regulations provided by WHO and the Ministry of Health well while recording the video for a higher chance of getting the video approved. <em>For your safety, follow these regulations even when not recording the video.</em></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
 <h4>Fill in this form and upload your video. </h4>
 <!-- /wp:heading -->
 
