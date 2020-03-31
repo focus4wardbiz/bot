@@ -20,3 +20,4 @@ post_date: 2020-03-31 17:55:57
 														</a>
 				<a data-elementor-lightbox-slideshow="all" href="https://boxoftools.com/wp-content/uploads/2020/03/DSC_0961-Large.jpg">
 														</a>
+		<p>You can find more information and Shihan's story by visiting his artist profile and watching his video below.</p>https://youtu.be/T9MryocXcM4
