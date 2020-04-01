@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://boxoftools.com/caricature-work-by-mito-arts/
 published: true
-post_date: 2020-04-01 06:47:58
+post_date: 2020-04-01 06:46:58
 ---
 <p>Mito arts is a caricature artist based in Nakuru Kenya, He is an expert in drawing cartoons and pencil portraits. Take a look at some of his work below.</p>		
 				<a data-elementor-lightbox-slideshow="all" href="https://boxoftools.com/wp-content/uploads/2020/03/DSC_0976-Large.jpg">
