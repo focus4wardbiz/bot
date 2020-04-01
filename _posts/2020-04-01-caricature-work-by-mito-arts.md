@@ -14,4 +14,4 @@ post_date: 2020-04-01 06:46:58
 														</a>
 				<a data-elementor-lightbox-slideshow="all" href="https://boxoftools.com/wp-content/uploads/2020/03/DSC_0973-Large.jpg">
 														</a>
-		https://www.youtube.com/watch?v=XHOmBV4js_E
+		<p>For more information about Mito Arts, visit his profile or watch his video below.</p>https://youtu.be/EdwErhPx_Kg
