@@ -10,7 +10,7 @@ published: true
 post_date: 2020-04-09 13:33:15
 ---
 <!-- wp:paragraph -->
-<p>Let's give them a name, i would prefer an "all of a sudden." No one is watching, no one is expecting. Things just change unexpectedly.  That's what the Covid-19 pandemic has brought unto us.</p>
+<p>Let's give them a name, i would prefer an "all of a sudden." No one is watching, no one is expecting. Things just change unexpectedly.  That's what the <a href="https://www.google.com/search?q=covid+19&amp;oq=covid+19&amp;aqs=chrome..69i57l2j69i60l5j69i61.1941j0j7&amp;sourceid=chrome&amp;ie=UTF-8">Covid-19</a> situation has brought unto us.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -30,7 +30,11 @@ post_date: 2020-04-09 13:33:15
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If we look closely, its not only the pandemic we are dealing with. From worrying, to fear of our safety and loved ones, to food supply and daily up keep, to what next, we could summarize it as chaotic.</p>
+<p>Related Article - <a href="https://boxoftools.com/even-pontius-pilate-washed-his-hands/">Even Pontius Pirate Washed His Hands</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If we look closely, its not only the pandemic we are dealing with. From worrying, to fear of our safety and loved ones, to food supply and daily up keep, to what next, we could summarize the COVID-19 Situation as chaotic.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
