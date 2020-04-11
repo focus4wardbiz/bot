@@ -10,7 +10,7 @@ published: true
 post_date: 2020-03-19 05:13:38
 ---
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://cdn.pixabay.com/photo/2018/04/05/17/21/kettlebell-3293475__340.jpg" alt="Kettlebell, Fitness, Crossfit, Fit" /></figure>
+<figure class="wp-block-image"><img src="https://cdn.pixabay.com/photo/2018/04/05/17/21/kettlebell-3293475__340.jpg" alt="Kettlebell, Fitness, Crossfit, Fit"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
