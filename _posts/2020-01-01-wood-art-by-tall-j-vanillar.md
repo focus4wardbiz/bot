@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://boxoftools.com/wood-art-by-tall-j-vanillar/
 published: true
-post_date: 2020-03-31 17:35:21
+post_date: 2020-01-01 17:35:21
 ---
 <!-- wp:paragraph -->
 <p>Take a look at this amazing creative work by Tall-j Vanillar. His ability to creatively craft messages on wood is extra-ordinary.</p>
