@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: https://boxoftools.com/dimensions/
 published: true
-post_date: 2020-02-14 09:16:20
+post_date: 2020-04-14 09:16:20
 ---
 <!-- wp:image {"id":7590,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://boxoftools.com/wp-content/uploads/2020/01/DSC_0024-1024x897.jpg" alt="" class="wp-image-7590"/></figure>
