@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://boxoftools.com/paintings-by-jesse-the-cowboy/
 published: true
-post_date: 2020-04-01 07:20:14
+post_date: 2020-01-02 07:20:14
 ---
 <!-- wp:paragraph -->
 <p>These canvas paintings are amazingly high quality and eye-catching. Jesse the Cowboy is a painter and craftsman based in Nakuru. </p>
